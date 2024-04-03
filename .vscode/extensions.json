@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "vscjava.vscode-gradle",
+        "ms-ceintl.vscode-language-pack-ja",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-debug"
+    ]
+}
